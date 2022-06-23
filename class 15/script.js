@@ -31,4 +31,3 @@ function retest(re,str){
 }
 retest(re,str);
 
-// start again with 14mins.
